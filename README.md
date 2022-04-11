@@ -1,1 +1,1 @@
-# Unit3-02-HTML-VolumePyramid
+[![GitHub's SuperLinter](https://github.com/ICS20-Programming-Ioana-M/Unit3-02-HTML-VolumePyramid/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/ICS20-Programming-Ioana-M/Unit3-02-HTML-VolumePyramid/actions)
