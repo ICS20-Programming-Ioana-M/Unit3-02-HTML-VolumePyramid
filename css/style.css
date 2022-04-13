@@ -1,0 +1,21 @@
+body{
+  background-color: cadetblue;
+}
+
+h1{
+  text-align: center;
+  background-color: #a0aec1;
+}
+
+td{
+  text-align: left;
+  padding: 8px;
+}
+
+.mdl-textfield__label, mdl-textfield__input{
+  color: #e0e0e0;
+}
+
+.mar{
+  margin-left: 50px;
+}
